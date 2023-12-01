@@ -27,5 +27,5 @@ This tutorial is designed to handle various use cases related to machine learnin
 
 Explore the provided examples in each script to understand how to use the chatbot for interactive searches and information retrieval.
 
-![alt text](https://github.com/ThaminduSulakshana/LangChain-Tutorial_langchain_model_building/blob/33fa5125314d3907426a35003f11b16aa4eb013b/Screenshot%20(131).png)
+![alt text](https://github.com/ThaminduSulakshana/CustomChatbot-Tutorial/blob/6965d1e3d2c6e24a272507c9d8466cfbb005dbdb/Screenshot%20(134).png)
 
