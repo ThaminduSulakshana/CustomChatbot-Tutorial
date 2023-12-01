@@ -27,12 +27,5 @@ This tutorial is designed to handle various use cases related to machine learnin
 
 Explore the provided examples in each script to understand how to use the chatbot for interactive searches and information retrieval.
 
-# Sample search query
-query = "natural language processing techniques"
-# Display nearest matching results and distances
-search_loop(query)
+![alt text](https://github.com/ThaminduSulakshana/LangChain-Tutorial_langchain_model_building/blob/33fa5125314d3907426a35003f11b16aa4eb013b/Screenshot%20(131).png)
 
-
-**Note:** Ensure that you have the necessary permissions and licenses for the models and libraries used in this tutorial.
-
-Happy coding! If you have any questions or feedback, feel free to reach out.
