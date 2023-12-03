@@ -1,4 +1,4 @@
-# CustomChatbot-Tutorial
+# Custom_ChatGPT_LangChain_Tutorial
 
 This repository contains a comprehensive short course on using LangChain to build a custom chatbot that interacts with your own data. This repository provides a step-by-step guide to harnessing the power of large language models (LLMs) like ChatGPT for personalized and data-driven conversations.
 
