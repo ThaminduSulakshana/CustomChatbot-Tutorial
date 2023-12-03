@@ -1,6 +1,6 @@
 # CustomChatbot-Tutorial
 
-CustomChatbot-Tutorial repository! This tutorial provides a step-by-step guide on implementing a chatbot using language embeddings and FAISS (Facebook AI Similarity Search) for efficient information retrieval. Whether you're a beginner or an experienced developer, this tutorial will walk you through the process of building a custom chatbot for handling various use cases related to machine learning lectures.
+This repository contains a comprehensive short course on using LangChain to build a custom chatbot that interacts with your own data. This repository provides a step-by-step guide to harnessing the power of large language models (LLMs) like ChatGPT for personalized and data-driven conversations.
 
 ## 🚀 Key Features
 
