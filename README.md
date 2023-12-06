@@ -9,7 +9,7 @@ This repository contains a comprehensive short course on using LangChain to buil
 - **Text Encoding:** Utilize the SentenceTransformer to encode text chunks into vectors.
 - **FAISS Indexing:** Build a FAISS index with the encoded vectors for fast similarity search.
 - **Interactive Search:** Allow users to interactively input questions, perform searches, and display relevant information.
-- **Example Searches:** Demonstrate sample search queries, displaying nearest matching results and distances.
+- **Related Models:**Model Card google/flan-t5-xxl.
 
 
 ## 🛠️ Getting Started
