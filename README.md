@@ -4,7 +4,7 @@ This repository contains a comprehensive short course on using LangChain to buil
 
 ## 🚀 Key Features
 
-- **Data Loading:** Read data from an Excel and PDF file using pandas.
+- **Data Loading:** Read data from an Excel and PDF file.
 - **Text Preprocessing:** Split text into chunks using the SpacyTextSplitter.
 - **Text Encoding:** Utilize the SentenceTransformer to encode text chunks into vectors.
 - **FAISS Indexing:** Build a FAISS index with the encoded vectors for fast similarity search.
